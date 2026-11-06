@@ -1,1 +1,0 @@
-package ma.gestionlogs.repository;
